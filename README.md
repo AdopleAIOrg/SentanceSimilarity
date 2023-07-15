@@ -17,9 +17,6 @@ The Sentence Similarity Checker is a Python application that allows you to compa
 **Clone the repository:**
 git clone https://github.com/AdopleAIOrg/SentanceSimilarity.git
 
-**Change to the project directory:**
-cd your_repository
-
 # Usage
 1. Run the application:
    
