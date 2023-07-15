@@ -9,4 +9,4 @@ Calculates the similarity score between two sentences
 Provides a user-friendly interface using Streamlit
 
 **Installation**
-git clone https://github.com/your_username/your_repository.git
+git clone https://github.com/AdopleAIOrg/SentanceSimilarity.git
